@@ -1,11 +1,12 @@
 <script setup lang="ts">
-  import 'bootstrap/dist/css/bootstrap.css';
-  import 'bootstrap/dist/js/bootstrap.js';
+  import '../assets/space-sim/spacesim.js';
+  
 </script>
 
 <template>
+
 </template>
 
-<style scoped>
-  
+<style>
+
 </style>
